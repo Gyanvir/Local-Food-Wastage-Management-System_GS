@@ -1,0 +1,10 @@
+pandas
+numpy
+sqlalchemy
+sqlite3  
+streamlit
+plotly
+matplotlib
+geopy
+python-dateutil
+datetime
